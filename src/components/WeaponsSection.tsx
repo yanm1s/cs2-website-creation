@@ -11,9 +11,9 @@ const weapons = [
   },
   {
     id: 2,
-    name: "M4A4",
+    name: "M4A1-S",
     type: "Штурмовая винтовка",
-    price: "$3100",
+    price: "$2900",
     image: "https://images.unsplash.com/photo-1599407950360-8b8642d423dc?w=400&auto=format&fit=crop"
   },
   {
@@ -22,6 +22,27 @@ const weapons = [
     type: "Снайперская винтовка",
     price: "$4750",
     image: "https://images.unsplash.com/photo-1555436169-20c8e43a4fa1?w=400&auto=format&fit=crop"
+  },
+  {
+    id: 4,
+    name: "Desert Eagle",
+    type: "Пистолет",
+    price: "$700",
+    image: "https://images.unsplash.com/photo-1595590424283-b8f17842773f?w=400&auto=format&fit=crop"
+  },
+  {
+    id: 5,
+    name: "USP-S",
+    type: "Пистолет",
+    price: "$200",
+    image: "https://images.unsplash.com/photo-1584574966145-b73181a0cb67?w=400&auto=format&fit=crop"
+  },
+  {
+    id: 6,
+    name: "MP9",
+    type: "Пистолет-пулемёт",
+    price: "$1250",
+    image: "https://images.unsplash.com/photo-1551965445-5e76b18eddc0?w=400&auto=format&fit=crop"
   }
 ];
 
