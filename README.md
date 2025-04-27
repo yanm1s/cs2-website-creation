@@ -1,3 +1,2 @@
-# cs2-website-creation
+# cs2
 
-Initial repository setup for pr-poehali-dev/cs2-website-creation
